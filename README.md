@@ -1,4 +1,4 @@
-### PBD algorithm
+# PBD algorithm
 
 ## Setup
 
